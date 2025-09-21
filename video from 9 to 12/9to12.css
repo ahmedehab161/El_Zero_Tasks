@@ -36,14 +36,15 @@
 */
 .element{
     width: 400px;
-    padding:20px 20px 20px 40px;
-    margin: 30px;
+    padding: 20px;
+    margin: 20px;
 }
 .element-1{
     border-left: 8px solid red;
 }
 .element-2{
     border-left: 8px solid red;
+    visibility: hidden;
 }
 .element-3{
     border-left: 8px solid red;
