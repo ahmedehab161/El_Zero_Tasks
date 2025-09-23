@@ -36,16 +36,18 @@
 */
 .element{
     width: 400px;
-    padding: 20px;
+    padding: 10px;
     margin: 20px;
+    background-color: #eee;
 }
 .element-1{
-    border-left: 8px solid red;
+    border-left: 8px solid darkred;
+    padding:10px;
 }
 .element-2{
     border-left: 8px solid red;
     visibility: hidden;
 }
 .element-3{
-    border-left: 8px solid red;
+    border-left: 8px solid rgb(54, 166, 54);
 }
