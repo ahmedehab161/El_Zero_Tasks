@@ -1,4 +1,5 @@
-.child .title {
+/* Task 1 Start */
+/* .child .title {
     color: red;
 }
 
@@ -9,4 +10,18 @@
 .parent p,
 body>.title {
     color: green;
-}
+} */
+/* Task 1 End */
+
+/* Task 2 Start */
+ div {
+    background-color: brown;
+    /* تم عمل لون الكلام اسود لمشاهدة الاوفر فلو لو اتشال */
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    max-width: 400px;
+    white-space: nowrap;
+    overflow: hidden;
+ }
+/* Task 2 End */
