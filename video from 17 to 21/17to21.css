@@ -39,3 +39,20 @@
     text-overflow:ellipsis;
 } */
 /* Task 3 End */
+
+/* Task 4 Start */
+body {
+    text-align: center;
+    background-color: #fff;
+}
+
+a {
+    background-color: #009688;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+    border-bottom: 15px solid #004d47;
+}
+/* Task 4 End */
