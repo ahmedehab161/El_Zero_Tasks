@@ -1,7 +1,22 @@
 /* Task 1 Start */
-div{
+/* div{
     font-size: 80px;
     text-shadow:5px 1px red,
             5px 4px blue;
-}
+} */
 /* Task 1 End */
+
+/* Task 2 Start */
+p{
+    font-size: 80px;
+}
+.one{
+    text-transform: uppercase;
+}
+.two{
+    text-transform: capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
+/* Task 2 End */
