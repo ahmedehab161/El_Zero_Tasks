@@ -7,7 +7,7 @@
 /* Task 1 End */
 
 /* Task 2 Start */
-p{
+/* p{
     font-size: 80px;
 }
 .one{
@@ -18,5 +18,24 @@ p{
 }
 .three{
     text-transform: lowercase;
-}
+} */
 /* Task 2 End */
+
+
+/* Task 3 Start */
+/* div{
+    background-color: #eee;
+    padding: 20px;
+    width: 400px;
+    font-size: 20px;
+    margin: 10px;
+}
+.one{
+    word-break: normal;
+}
+.three {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+} */
+/* Task 3 End */
